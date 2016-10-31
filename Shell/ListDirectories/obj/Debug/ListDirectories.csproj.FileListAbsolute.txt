@@ -1,0 +1,5 @@
+c:\Users\will\documents\visual studio 2015\Projects\Shell\ListDirectories\bin\Debug\ListDirectories.exe.config
+c:\Users\will\documents\visual studio 2015\Projects\Shell\ListDirectories\bin\Debug\ListDirectories.exe
+c:\Users\will\documents\visual studio 2015\Projects\Shell\ListDirectories\bin\Debug\ListDirectories.pdb
+c:\Users\will\documents\visual studio 2015\Projects\Shell\ListDirectories\obj\Debug\ListDirectories.exe
+c:\Users\will\documents\visual studio 2015\Projects\Shell\ListDirectories\obj\Debug\ListDirectories.pdb

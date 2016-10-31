@@ -1,0 +1,5 @@
+c:\Users\will\documents\visual studio 2015\Projects\Shell\Clear\bin\Debug\Clear.exe.config
+c:\Users\will\documents\visual studio 2015\Projects\Shell\Clear\bin\Debug\Clear.exe
+c:\Users\will\documents\visual studio 2015\Projects\Shell\Clear\bin\Debug\Clear.pdb
+c:\Users\will\documents\visual studio 2015\Projects\Shell\Clear\obj\Debug\Clear.exe
+c:\Users\will\documents\visual studio 2015\Projects\Shell\Clear\obj\Debug\Clear.pdb
